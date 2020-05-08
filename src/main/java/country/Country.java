@@ -8,5 +8,7 @@ public class Country {
         System.out.println("My name is Nishtha Sharma");
         System.out.println(" i stud y at gndu");
         System.out.println("My name is guddu");
+        System.out.println("Habitual of good things to come");
+        System.out.println("Good times Bad Times");
     }
 }
